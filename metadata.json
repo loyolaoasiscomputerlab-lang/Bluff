@@ -1,0 +1,5 @@
+{
+  "name": "Bluff Master",
+  "description": "A fully interactive Bluff card game with AI opponents, progression system, and immersive UI.",
+  "requestFramePermissions": []
+}
